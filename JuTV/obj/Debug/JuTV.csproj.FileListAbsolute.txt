@@ -1,0 +1,9 @@
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.dll.config
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.dll
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.pdb
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\obj\Debug\JuTV.dll
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\obj\Debug\JuTV.pdb
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Spring.dll
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Newtonsoft.Json.dll
+c:\users\administrator.sc-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Newtonsoft.Json.xml
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\obj\Debug\JuTV.csprojResolveAssemblyReference.cache

@@ -1,0 +1,60 @@
+        .koko_input
+        {
+            position: relative;
+            z-index: 2;
+            display: block;
+            height: 20px;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            vertical-align: middle;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            cursor: pointer;
+            border: none;
+            background: 0 0;
+        }
+        
+/*        控制栏*/
+        .koko_controls {
+            padding: 10px;
+            border-radius: inherit;
+            background: rgba(0, 0, 0, .6);
+            overflow: hidden;
+            color: #FFFFFF;
+        }
+        
+        .koko_controls button {
+            position: relative;
+            display: inline-block;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            overflow: visible;
+            vertical-align: middle;
+            padding: 7px;
+            border: 0;
+            background: 0 0;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: background .3s ease,color .3s ease,opacity .3s ease;
+            color: inherit;
+            
+        }
+        
+        .koko_controls button:hover
+        {
+            background: #01B0F0;
+            color: #fff;
+        }
+        
+        .koko_controls .icon--muted {
+            display: none;
+        }
+
+        .koko_controls button svg {
+            width: 18px;
+            height: 18px;
+            display: block;
+            fill: currentColor;
+        }

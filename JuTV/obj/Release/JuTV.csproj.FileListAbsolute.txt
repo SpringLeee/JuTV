@@ -1,0 +1,8 @@
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.dll.config
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.dll
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\JuTV.pdb
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Newtonsoft.Json.dll
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Spring.dll
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\bin\Newtonsoft.Json.xml
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\obj\Release\JuTV.dll
+C:\Users\Administrator.SC-201703152226\documents\visual studio 2013\Projects\JuTV\JuTV\obj\Release\JuTV.pdb
